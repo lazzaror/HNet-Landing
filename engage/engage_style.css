@@ -12,6 +12,14 @@ html, body {
     background-color: #b1effe;
 }
 
+.logo {
+    width: 9%;
+    z-index: 0;
+    flex-wrap: wrap;
+    display: inline;
+    padding: 5% 0 0 3%;
+}
+
 .topnav {
     display: none;
 }
@@ -91,7 +99,10 @@ a:hover {
     .big-underline {
         background-color: #00d5fb;
         padding: 0;
-        width: 80%;
+        flex-wrap: wrap;
+        z-index: -1;
+        text-align: right;
+        width: 87%;
         border: none;
         height: 5px;
     }
