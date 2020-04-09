@@ -370,14 +370,16 @@ div.footer {
     
     .top-section {
         float: right;
-        padding-top: 4%;
+        padding-top: 0%;
         padding-left: 0;
         width: 88%;
     }
     
     .logo {
-        display: inline;
-        padding: 5% 0 0 3%;
+        display: absolute;
+        width: 10%;
+        padding: 1em 0 0% 1em;
+        margin: 0% 0% 0% 0%;
     }
     
     .topnav {
