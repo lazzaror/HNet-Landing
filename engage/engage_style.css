@@ -974,6 +974,7 @@ a:hover {
 .go-home {
     font-size: 1.3em;
     background-color: white;
+    box-shadow: 3px 5px #888888;
     padding: .5em;
     border-radius: .5em;
 }
@@ -1286,6 +1287,7 @@ a:hover {
 .go-home {
     font-size: 1.3em;
     background-color: white;
+    box-shadow: 3px 5px #888888;
     padding: .5em;
     border-radius: .5em;
 }
