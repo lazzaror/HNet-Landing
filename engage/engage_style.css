@@ -1052,6 +1052,10 @@ html, body {
     background-color: #b1effe;
 }
 
+body > div.mobile > div.topnav > a {
+    color: white;
+}
+
 /* Hamburger Menu */
 .topnav {
     overflow: hidden;
@@ -1167,16 +1171,6 @@ a.icon {
     width: 50%;
     height: 45%;
 }
-
-.menu-links {
-    display: none;
-}
-
-/*Makes links stack vertically*/
-.menu-links a {
-    display: none;
-}
-
 
 a:hover {
     color: white;
