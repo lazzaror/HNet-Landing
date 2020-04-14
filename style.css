@@ -51,9 +51,10 @@
         text-align: left;
         font-family: sans-serif;
         position: absolute;
-        top: 44%;
-        padding-left: 50%;
-        font-size: 65px;
+        top: 30%;
+        left: 30%;
+        max-width: 60%;
+        font-size: 100px;
     }
     
     #logo-container {
@@ -391,8 +392,9 @@
         text-align: left;
         font-family: sans-serif;
         position: absolute;
-        top: 44%;
-        padding-left: 32%;
+        top: 30%;
+        left: 30%;
+        max-width: 60%;
         font-size: 65px;
     }
     
@@ -728,8 +730,9 @@
         text-align: left;
         font-family: sans-serif;
         position: absolute;
-        top: 44%;
-        padding-left: 50%;
+        top: 30%;
+        left: 30%;
+        max-width: 60%;
         font-size: 65px;
     }
     
