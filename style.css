@@ -327,7 +327,14 @@
 
     .foot-logo {
         float: right;
-        height: 100%;
+        height: 75%;
+        padding: 2% 3% 0 2%;
+    }
+    
+    .foot-logo-left {
+        float: right;
+        height: 55%;
+        padding: 4% 0;
     }
 }
 
