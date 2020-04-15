@@ -136,21 +136,25 @@
     }
     
     /*Page Two*/
-    .bg2 {
-        background-color: #d3d3d3;
-        background-size: cover;
-        min-height: 110vh;
-        position: relative;
-        overflow: hidden;
-        width: 100vw;
+    .quote-container {
+        float: left;
+        font-size: 40px;
+        width: 40%;
+        font-family: 'Lato', sans-serif;
+        margin: 8% 0 0 3%;
     }
 
-    .bg2-title {
-        font-size: 40px;
-        font-weight: bold;
-        text-align: center;
-        font-family: 'Lato', sans-serif;
-        padding-top: 2%;
+    .quote-underline {
+        width: 100%;
+    }
+
+    .bg2-title-container {
+        margin-left: 50%;
+        width: 100%;
+    }
+
+    .pg2-underline {
+        margin-left: 15%;
     }
 
     .statements-container {
@@ -170,23 +174,15 @@
     }
 
     #mission-container, #vision-container {
-        background-color: rgba(255, 255, 255, 0.897);
         border-radius: 3%;
         padding: 1% 1.25%;
         margin-bottom: 6%;
         height: 100%;
     }
-
-    #values-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 3%;
-        padding: 1% 1.25%;
-        height: 100%; 
-    }
     
     #mission-container {
         text-align: center;
-        margin-left: 10%;
+        margin-left: 5%;
         margin-top: 5%;
         width: 20%;
         float: left;
@@ -202,11 +198,11 @@
    
     #values-container {
         text-align: center;
-        margin-left: 10%;
         margin-top: 5%;
         width: 21.5%;
         float: left;
     }
+
 
     .statements-body {
         text-align: left;
@@ -530,12 +526,25 @@
         width: 100vw;
     }
 
-    .bg2-title {
+    .quote-container {
+        float: left;
         font-size: 40px;
-        font-weight: bold;
-        text-align: center;
+        width: 40%;
         font-family: 'Lato', sans-serif;
-        padding-top: 2%;
+        margin: 8% 0 0 3%;
+    }
+
+    .quote-underline {
+        width: 100%;
+    }
+
+    .bg2-title-container {
+        margin-left: 50%;
+        width: 100%;
+    }
+
+    .pg2-underline {
+        margin-left: 15%;
     }
 
     .statements-container {
@@ -555,23 +564,15 @@
     }
 
     #mission-container, #vision-container {
-        background-color: rgba(255, 255, 255, 0.897);
         border-radius: 3%;
         padding: 1% 1.25%;
         margin-bottom: 6%;
         height: 100%;
     }
-
-    #values-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 3%;
-        padding: 1% 1.25%;
-        height: 100%; 
-    }
     
     #mission-container {
         text-align: center;
-        margin-left: 10%;
+        margin-left: 5%;
         margin-top: 5%;
         width: 20%;
         float: left;
@@ -587,11 +588,11 @@
    
     #values-container {
         text-align: center;
-        margin-left: 10%;
         margin-top: 5%;
         width: 21.5%;
         float: left;
     }
+
 
     .statements-body {
         text-align: left;
@@ -904,21 +905,25 @@
     }
     
     /*Page Two*/
-    .bg2 {
-        background-color: #d3d3d3;
-        background-size: cover;
-        min-height: 110vh;
-        position: relative;
-        overflow: hidden;
-        width: 100vw;
+    .quote-container {
+        float: left;
+        font-size: 40px;
+        width: 40%;
+        font-family: 'Lato', sans-serif;
+        margin: 8% 0 0 3%;
     }
 
-    .bg2-title {
-        font-size: 40px;
-        font-weight: bold;
-        text-align: center;
-        font-family: 'Lato', sans-serif;
-        padding-top: 2%;
+    .quote-underline {
+        width: 100%;
+    }
+
+    .bg2-title-container {
+        margin-left: 50%;
+        width: 100%;
+    }
+
+    .pg2-underline {
+        margin-left: 15%;
     }
 
     .statements-container {
@@ -938,23 +943,15 @@
     }
 
     #mission-container, #vision-container {
-        background-color: rgba(255, 255, 255, 0.897);
         border-radius: 3%;
         padding: 1% 1.25%;
         margin-bottom: 6%;
         height: 100%;
     }
-
-    #values-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 3%;
-        padding: 1% 1.25%;
-        height: 100%; 
-    }
     
     #mission-container {
         text-align: center;
-        margin-left: 10%;
+        margin-left: 5%;
         margin-top: 5%;
         width: 20%;
         float: left;
@@ -970,11 +967,11 @@
    
     #values-container {
         text-align: center;
-        margin-left: 10%;
         margin-top: 5%;
         width: 21.5%;
         float: left;
     }
+
 
     .statements-body {
         text-align: left;
@@ -1329,76 +1326,73 @@
     }
     
     /*Page Two*/
-    .bg2 {
-        background-color: #b5b5b6;
-        background-size: cover;
-        min-height: 110vh;
-        position: relative;
-        overflow: hidden;
+    .quote-container {
+        float: left;
+        font-size: 40px;
+        width: 40%;
+        font-family: 'Lato', sans-serif;
+        margin: 8% 0 0 3%;
+    }
+
+    .quote-underline {
+        width: 100%;
     }
 
     .bg2-title-container {
-        margin-left: 10%;
-        width: 80%;
-        padding: 0 1.25%;
+        margin-left: 50%;
+        width: 100%;
     }
 
-    .bg2-title {
-        font-size: 40px;
-        font-weight: bold;
-        text-align: center;
-        font-family: 'Lato', sans-serif;
-        padding-top: 5%;
+    .pg2-underline {
+        margin-left: 15%;
     }
 
     .statements-container {
-        display: flex;
-        flex-direction: column;
         font-family: 'Source Sans Pro', sans-serif;
     }
 
-    .statements-images1, .statements-images2, .statements-images3 {
-        display: none;
+    .statements-images1 {
+        width: 52%;
     }
-    
+
+    .statements-images2 {
+        width: 33.6%;
+    }
+
+    .statements-images3 {
+        width: 48%;
+    }
+
     #mission-container, #vision-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 1%;
-        padding: 1% 5.25%;
+        border-radius: 3%;
+        padding: 1% 1.25%;
+        margin-bottom: 6%;
         height: 100%;
     }
-
-    #values-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 1%;
-        padding: 1% 5.25%;
-        height: 100%; 
-    }
-
+    
     #mission-container {
-        text-align: left;
+        text-align: center;
         margin-left: 5%;
-        margin-top: 10%;
-        width: 80%;
+        margin-top: 5%;
+        width: 20%;
         float: left;
     }
     
     #vision-container {
-        text-align: left;
-        margin-left: 5%;
-        margin-top: 10%;
-        width: 80%;
+        text-align: center;
+        margin-left: 6.5%;
+        margin-top: 5%;
+        width: 20%;
         float: left;
     }
    
     #values-container {
-        text-align: left;
-        margin-left: 5%;
-        margin-top: 10%;
-        margin-bottom: 10%;
-        width: 80%;
+        text-align: center;
+        margin-top: 5%;
+        width: 21.5%;
         float: left;
     }
+
     
     li {
         font-weight: bold;
@@ -1732,77 +1726,73 @@
     }
     
     /*Page Two*/
-    .bg2 {
-        background-color: #b5b5b6;
-        background-size: cover;
-        min-height: 110vh;
-        position: relative;
-        overflow: hidden;
+    .quote-container {
+        float: left;
+        font-size: 40px;
+        width: 40%;
+        font-family: 'Lato', sans-serif;
+        margin: 8% 0 0 3%;
+    }
+
+    .quote-underline {
+        width: 100%;
     }
 
     .bg2-title-container {
-        margin-left: 10%;
-        width: 80%;
-        padding: 0 1.25%;
+        margin-left: 50%;
+        width: 100%;
     }
 
-    .bg2-title {
-        font-size: 40px;
-        font-weight: bold;
-        text-align: center;
-        font-family: 'Lato', sans-serif;
-        padding-top: 5%;
+    .pg2-underline {
+        margin-left: 15%;
     }
 
     .statements-container {
-        display: flex;
-        flex-direction: column;
         font-family: 'Source Sans Pro', sans-serif;
     }
 
-    .statements-images1, .statements-images2, .statements-images3 {
-        display: none;
+    .statements-images1 {
+        width: 52%;
     }
-    
+
+    .statements-images2 {
+        width: 33.6%;
+    }
+
+    .statements-images3 {
+        width: 48%;
+    }
+
     #mission-container, #vision-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 1%;
-        padding: 1% 5.25%;
+        border-radius: 3%;
+        padding: 1% 1.25%;
+        margin-bottom: 6%;
         height: 100%;
     }
-
-    #values-container {
-        background-color: rgba(255, 255, 255, 0.897);
-        border-radius: 1%;
-        padding: 1% 5.25%;
-        height: 100%; 
-    }
-
+    
     #mission-container {
-        text-align: left;
+        text-align: center;
         margin-left: 5%;
-        margin-top: 10%;
-        width: 80%;
+        margin-top: 5%;
+        width: 20%;
         float: left;
     }
     
     #vision-container {
-        text-align: left;
-        margin-left: 5%;
-        margin-top: 10%;
-        width: 80%;
+        text-align: center;
+        margin-left: 6.5%;
+        margin-top: 5%;
+        width: 20%;
         float: left;
     }
    
     #values-container {
-        text-align: left;
-        margin-left: 5%;
-        margin-top: 10%;
-        margin-bottom: 10%;
-        width: 80%;
+        text-align: center;
+        margin-top: 5%;
+        width: 21.5%;
         float: left;
     }
-    
+
     li {
         font-weight: bold;
         text-align: left;
