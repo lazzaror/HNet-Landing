@@ -136,6 +136,15 @@
     }
     
     /*Page Two*/
+    .bg2 {
+        background-color: #d3d3d3;
+        background-size: cover;
+        min-height: 110vh;
+        position: relative;
+        overflow: hidden;
+        width: 100vw;
+    }
+    
     .quote-container {
         float: left;
         font-size: 40px;
