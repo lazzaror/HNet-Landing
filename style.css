@@ -301,6 +301,48 @@
         font-size: 30px;
         font-family: 'Source Sans Pro', sans-serif;
     }
+
+        /* Page 4 */
+        .bg4 {
+            background-color: rgba(238, 238, 238, 0.075) !important;
+            background-image: url('img/contact_image.png');
+            background-blend-mode: color;
+            background-size: cover;
+            min-height: 120vh;
+            height: 100%;
+            position: relative;
+        }
+    
+        .pg-title {
+            font-size: 30px;
+            padding: 5% 0 0 4%;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+    
+        .blue-underline {
+            background-color: #00d5fb;
+            padding: 0;
+            margin: 0;
+            width: 25%;
+            border: none;
+            height: 5px;
+        }
+    
+        .pg4-underline {
+            margin-left: 4%;
+        }
+    
+        .pg4-leftcol {
+            font-size: 20px;
+            margin-left: 4%;
+        }
+    
+        .pg4-rightcol {
+            font-size: 20px;
+            position: absolute;
+            top: 17%;
+            left: 40%;
+        }
     
     .footer-container {
         height: 200px;
@@ -1023,6 +1065,48 @@
         font-size: 30px;
         font-family: 'Source Sans Pro', sans-serif;
     }
+
+        /* Page 4 */
+        .bg4 {
+            background-color: rgba(238, 238, 238, 0.075) !important;
+            background-image: url('img/contact_image.png');
+            background-blend-mode: color;
+            background-size: cover;
+            min-height: 120vh;
+            height: 100%;
+            position: relative;
+        }
+    
+        .pg-title {
+            font-size: 30px;
+            padding: 5% 0 0 4%;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+    
+        .blue-underline {
+            background-color: #00d5fb;
+            padding: 0;
+            margin: 0;
+            width: 25%;
+            border: none;
+            height: 5px;
+        }
+    
+        .pg4-underline {
+            margin-left: 4%;
+        }
+    
+        .pg4-leftcol {
+            font-size: 20px;
+            margin-left: 4%;
+        }
+    
+        .pg4-rightcol {
+            font-size: 20px;
+            position: absolute;
+            top: 17%;
+            left: 40%;
+        }
     
     .footer-container {
         height: 200px;
@@ -1390,6 +1474,48 @@
         text-align: left;
         font-family: 'Source Sans Pro', sans-serif;
     }
+
+        /* Page 4 */
+        .bg4 {
+            background-color: rgba(238, 238, 238, 0.075) !important;
+            background-image: url('img/contact_image.png');
+            background-blend-mode: color;
+            background-size: cover;
+            min-height: 120vh;
+            height: 100%;
+            position: relative;
+        }
+    
+        .pg-title {
+            font-size: 30px;
+            padding: 5% 0 0 4%;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+    
+        .blue-underline {
+            background-color: #00d5fb;
+            padding: 0;
+            margin: 0;
+            width: 25%;
+            border: none;
+            height: 5px;
+        }
+    
+        .pg4-underline {
+            margin-left: 4%;
+        }
+    
+        .pg4-leftcol {
+            font-size: 20px;
+            margin-left: 4%;
+        }
+    
+        .pg4-rightcol {
+            font-size: 20px;
+            position: absolute;
+            top: 17%;
+            left: 40%;
+        }
     
     .footer-container {
         height: 200px;
@@ -1742,6 +1868,48 @@
         text-align: left;
         font-family: 'Source Sans Pro', sans-serif;
     }
+
+        /* Page 4 */
+        .bg4 {
+            background-color: rgba(238, 238, 238, 0.075) !important;
+            background-image: url('img/contact_image.png');
+            background-blend-mode: color;
+            background-size: cover;
+            min-height: 120vh;
+            height: 100%;
+            position: relative;
+        }
+    
+        .pg-title {
+            font-size: 30px;
+            padding: 5% 0 0 4%;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+    
+        .blue-underline {
+            background-color: #00d5fb;
+            padding: 0;
+            margin: 0;
+            width: 25%;
+            border: none;
+            height: 5px;
+        }
+    
+        .pg4-underline {
+            margin-left: 4%;
+        }
+    
+        .pg4-leftcol {
+            font-size: 20px;
+            margin-left: 4%;
+        }
+    
+        .pg4-rightcol {
+            font-size: 20px;
+            position: absolute;
+            top: 17%;
+            left: 40%;
+        }
     
     .footer-container {
         height: 130px;
