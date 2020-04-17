@@ -145,6 +145,10 @@
         width: 100vw;
     }
 
+    .pg2-title {
+        color: #070e49;
+    }
+
     .bolded {
         font-weight: bold;
     }
@@ -942,6 +946,10 @@
         margin: 8% 0 0 3%;
     }
 
+    .pg2-title {
+        color: #070e49;
+    }
+
     .bolded {
         font-weight: bold;
     }
@@ -1369,6 +1377,10 @@
         margin: 8% 0 0 3%;
     }
 
+    .pg2-title {
+        color: #070e49;
+    }
+
     .bolded {
         font-weight: bold;
     }
@@ -1772,6 +1784,10 @@
         width: 40%;
         font-family: 'Lato', sans-serif;
         margin: 8% 0 0 3%;
+    }
+
+    .pg2-title {
+        color: #070e49;
     }
 
     .bolded {
