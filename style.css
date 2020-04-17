@@ -233,9 +233,11 @@
     
     .subheading {
         font-weight: bolder;
+        text-align: left;
         font-family: 'Lato', sans-serif;
+        color: #070e49;
         font-size: 25px;
-        padding-top: 2%;
+        padding-top: 10%;
     }
     
     /*Page 3*/
@@ -543,6 +545,10 @@
         width: 100vw;
     }
 
+    .pg2-title {
+        color: #070e49;
+    }
+
     .bolded {
         font-weight: bold;
     }
@@ -631,9 +637,11 @@
     
     .subheading {
         font-weight: bolder;
+        text-align: left;
         font-family: 'Lato', sans-serif;
+        color: #070e49;
         font-size: 25px;
-        padding-top: 2%;
+        padding-top: 10%;
     }
     
     /*Page 3*/
@@ -1014,9 +1022,11 @@
     
     .subheading {
         font-weight: bolder;
+        text-align: left;
         font-family: 'Lato', sans-serif;
+        color: #070e49;
         font-size: 25px;
-        padding-top: 2%;
+        padding-top: 10%;
     }
     
     /*Page 3*/
@@ -1430,10 +1440,11 @@
 
     .subheading {
         font-weight: bolder;
+        text-align: left;
         font-family: 'Lato', sans-serif;
+        color: #070e49;
         font-size: 25px;
-        padding-top: 2%;
-        text-align: center;
+        padding-top: 10%;
     }
     
     /*Page 3*/
@@ -1833,10 +1844,11 @@
 
     .subheading {
         font-weight: bolder;
+        text-align: left;
         font-family: 'Lato', sans-serif;
+        color: #070e49;
         font-size: 25px;
-        padding-top: 2%;
-        text-align: center;
+        padding-top: 10%;
     }
     
     /*Page 3*/
