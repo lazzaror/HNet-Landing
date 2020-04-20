@@ -1035,6 +1035,16 @@
         margin: 8% 0 0 3%;
     }
 
+    .bg2 {
+        background-color: #d3d3d3;
+        background-size: cover;
+        min-height: 110vh;
+        position: relative;
+        overflow: hidden;
+        width: 100vw;
+    }
+
+
     .pg2-title {
         color: #070e49;
     }
