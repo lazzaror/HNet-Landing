@@ -1533,7 +1533,7 @@
 
     .quote-container {
         float: left;
-        font-size: 40px;
+        font-size: 20px;
         width: 40%;
         font-family: 'Lato', sans-serif;
         margin: 8% 0 0 3%;
@@ -1584,11 +1584,12 @@
     }
     
     #mission-container {
-        text-align: center;
+        text-align: left;
         margin-left: 5%;
         margin-top: 5%;
         width: 20%;
         float: left;
+        font-size: 12px;
     }
     
     #vision-container {
