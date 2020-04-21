@@ -1763,17 +1763,15 @@
         }
     
         .pg4-leftcol {
-            font-size: 20px;
+            font-size: 18px;
             font-family: 'Lato', sans-serif;
             margin-left: 4%;
         }
     
         .pg4-rightcol {
-            font-size: 20px;
+            font-size: 18px;
             font-family: 'Lato', sans-serif;
-            position: absolute;
-            top: 17%;
-            left: 40%;
+            margin-left: 4%;
         }
     
     .footer-container {
@@ -2233,17 +2231,17 @@
         }
     
         .pg4-leftcol {
-            font-size: 20px;
+            font-size: 18px;
             font-family: 'Lato', sans-serif;
             margin-left: 4%;
         }
     
         .pg4-rightcol {
-            font-size: 20px;
+            font-size: 14px;
             font-family: 'Lato', sans-serif;
             position: absolute;
             top: 17%;
-            left: 40%;
+            left: 50%;
         }
     
     .footer-container {
