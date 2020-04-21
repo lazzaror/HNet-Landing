@@ -1334,7 +1334,7 @@
 @media only screen and (max-width: 1000px) and (orientation: portrait) {
     /*Fixes white space in margin*/
     html, body {
-        min-height: 110vh;
+        min-height: 90vh;
         width: 100%;
         height: 100%;
         margin: 0;
@@ -1413,6 +1413,10 @@
     #commons-links {
       display:none;
       background-color: #5a5a5a;
+    }
+
+    .big-underline {
+        display: none;
     }
 
     .active img {
@@ -1512,6 +1516,15 @@
     }
     
     /*Page Two*/
+    .bg2 {
+        background-color: #d3d3d3;
+        background-size: cover;
+        min-height: 110vh;
+        position: relative;
+        overflow: hidden;
+        width: 100vw;
+    }
+
     .quote-container {
         float: left;
         font-size: 40px;
@@ -1800,7 +1813,7 @@
 @media only screen and (max-width: 1000px) and (orientation: landscape) {
     /*Fixes white space in margin*/
     html, body {
-        min-height: 110vh;
+        min-height: 90vh;
         width: 100%;
         height: 100%;
         margin: 0;
@@ -1879,6 +1892,10 @@
     #commons-links {
       display:none;
       background-color: #5a5a5a;
+    }
+
+    .big-underline {
+        display: none;
     }
 
     .active img {
@@ -1970,6 +1987,15 @@
     }
     
     /*Page Two*/
+    .bg2 {
+        background-color: #d3d3d3;
+        background-size: cover;
+        min-height: 110vh;
+        position: relative;
+        overflow: hidden;
+        width: 100vw;
+    }
+
     .quote-container {
         float: left;
         font-size: 40px;
