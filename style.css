@@ -147,6 +147,10 @@
         width: 100vw;
     }
 
+    .pg2-mobile-header{
+        display:none;
+    }
+
     .pg2-title {
         color: #070e49;
     }
@@ -597,6 +601,10 @@
         width: 100vw;
     }
 
+    .pg2-mobile-header{
+        display:none;
+    }
+
     .pg2-title {
         color: #070e49;
     }
@@ -680,10 +688,6 @@
 
     .values-body {
         font-size: 18px;
-        text-align: center;
-    }
-
-    li {
         text-align: left;
     }
     
@@ -1050,6 +1054,9 @@
         width: 100vw;
     }
 
+    .pg2-mobile-header{
+        display:none;
+    }
 
     .pg2-title {
         color: #070e49;
@@ -1531,16 +1538,24 @@
         width: 100vw;
     }
 
-    .quote-container {
-        float: left;
-        font-size: 20px;
-        width: 40%;
+    .pg2-mobile-header{
+        color: #070e49;
+        text-align: center;
         font-family: 'Lato', sans-serif;
-        margin: 8% 0 0 3%;
+        font-size: 25px;
+        margin-top: 3%;
+    }
+
+    .quote-container {
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+        font-family: 'Lato', sans-serif;
+        margin-top: 6%;
     }
 
     .pg2-title {
-        color: #070e49;
+        display: none;
     }
 
     .bolded {
@@ -1549,6 +1564,8 @@
 
     .quote-underline {
         width: 100%;
+        padding: 0 13%;
+        text-align: center;
     }
 
     .bg2-title-container {
@@ -1557,54 +1574,39 @@
     }
 
     .pg2-underline {
-        margin-left: 15%;
+        display: none;
     }
 
     .statements-container {
         font-family: 'Source Sans Pro', sans-serif;
     }
 
-    .statements-images1 {
-        width: 52%;
-    }
-
     .statements-images2 {
-        width: 33.6%;
+        display: none;
     }
 
     .statements-images3 {
-        width: 48%;
+        display: none;
     }
 
     #mission-container, #vision-container {
         border-radius: 3%;
-        padding: 1% 1.25%;
-        margin-bottom: 6%;
         height: 100%;
+        padding: 0 5%;
     }
     
     #mission-container {
         text-align: left;
-        margin-left: 5%;
         margin-top: 5%;
-        width: 20%;
-        float: left;
-        font-size: 12px;
-    }
-    
-    #vision-container {
-        text-align: center;
-        margin-left: 6.5%;
-        margin-top: 5%;
-        width: 20%;
-        float: left;
+        width: 90%;
+        font-size: 15px;
     }
    
     #values-container {
-        text-align: center;
-        margin-top: 6%;
-        width: 21.5%;
-        float: left;
+        text-align: left;
+        font-size: 15px;
+        margin: 2% 0 8% 5%;
+        width: 90%;
     }
 
     
@@ -1615,7 +1617,8 @@
 
     .subheading {
         font-weight: bolder;
-        text-align: left;
+        text-align: center;
+        width: 100%;
         font-family: 'Lato', sans-serif;
         color: #070e49;
         font-size: 25px;
@@ -1999,6 +2002,10 @@
         position: relative;
         overflow: hidden;
         width: 100vw;
+    }
+
+    .pg2-mobile-header{
+        display:none;
     }
 
     .quote-container {
