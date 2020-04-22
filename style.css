@@ -1563,7 +1563,8 @@
     }
 
     .quote-underline {
-        width: 100%;
+        width: 80% !important; 
+        margin-left: 10% !important;
         padding: 0 13%;
         text-align: center;
     }
