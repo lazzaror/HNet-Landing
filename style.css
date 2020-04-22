@@ -87,7 +87,7 @@
     .menu-links {
         padding: 5% 0 0 21%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 25px;
+        font-size: 28px;
         font-weight: bold;
         display: block;
         text-align: left;
@@ -541,7 +541,7 @@
     .menu-links {
         padding: 5% 0 0 21%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 25px;
+        font-size: 28px;
         font-weight: bold;
         display: block;
         text-align: left;
@@ -986,7 +986,7 @@
     .menu-links {
         padding: 5% 0 0 21%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 25px;
+        font-size: 28px;
         font-weight: bold;
         display: block;
         text-align: left;
@@ -1548,7 +1548,7 @@
     }
 
     .quote-container {
-        font-size: 20px;
+        
         width: 100%;
         text-align: center;
         font-family: 'Lato', sans-serif;
@@ -1579,6 +1579,10 @@
         display: none;
     }
 
+    .mobile-br {
+        display: none;
+    }
+    
     .statements-container {
         font-family: 'Source Sans Pro', sans-serif;
     }
@@ -1624,7 +1628,6 @@
         font-family: 'Lato', sans-serif;
         color: #070e49;
         font-size: 25px;
-        padding-top: 10%;
     }
     
     /*Page 3*/
