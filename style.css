@@ -1746,10 +1746,10 @@
         /* Page 4 */
         .bg4 {
             background-color: rgba(238, 238, 238, 0.075) !important;
-            background-image: url('img/contact_image.png');
+            background-image: url('img/contact_image_mobile.png');
             background-blend-mode: color;
             background-size: cover;
-            min-height: 120vh;
+            min-height: 100vh;
             height: 100%;
             position: relative;
         }
@@ -1785,6 +1785,10 @@
             font-size: 18px;
             font-family: 'Lato', sans-serif;
             margin-left: 4%;
+        }
+
+        .mobile-contact-delete {
+            display: none;
         }
     
     .footer-container {
