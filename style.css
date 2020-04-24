@@ -1792,7 +1792,7 @@
         }
     
     .footer-container {
-        height: 200px;
+        height: 130px;
         margin: 0;
         padding: 0;
         width: 100%;
@@ -1813,14 +1813,14 @@
     
     .foot-logo {
         float: right;
-        height: 45%;
-        padding: 2% 3% 0 2%;
+        height: 50%;
+        padding: 8% 0 0 0;
     }
     
     .foot-logo-left {
         float: right;
         height: 40%;
-        padding: 4% 0;
+        padding: 10% 0 0 1%;
     }
     
     }
