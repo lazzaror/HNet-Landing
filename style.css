@@ -1807,19 +1807,19 @@
     
     div.footer {
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 14px;
+        font-size: 10px;
         text-align: left;
     }
     
     .foot-logo {
         float: right;
-        height: 75%;
+        height: 45%;
         padding: 2% 3% 0 2%;
     }
     
     .foot-logo-left {
         float: right;
-        height: 55%;
+        height: 40%;
         padding: 4% 0;
     }
     
