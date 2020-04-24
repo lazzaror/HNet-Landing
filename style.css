@@ -2017,7 +2017,7 @@
 
     .quote-container {
         float: left;
-        font-size: 40px;
+        font-size: 29px;
         width: 40%;
         font-family: 'Lato', sans-serif;
         margin: 8% 0 0 3%;
@@ -2071,7 +2071,7 @@
         text-align: center;
         margin-left: 5%;
         margin-top: 5%;
-        width: 20%;
+        width: 25%;
         float: left;
     }
     
@@ -2079,13 +2079,13 @@
         text-align: center;
         margin-left: 6.5%;
         margin-top: 5%;
-        width: 20%;
+        width: 23%;
         float: left;
     }
    
     #values-container {
         text-align: center;
-        margin-top: 6%;
+        margin-top: 8%;
         width: 21.5%;
         float: left;
     }
