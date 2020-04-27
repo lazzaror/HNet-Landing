@@ -694,6 +694,7 @@ div.footer {
     div.footer {
         font-family: 'Source Sans Pro', sans-serif;
         font-size: 14px;
+        padding-left: 4%;
         text-align: left;
     }
     
@@ -1108,6 +1109,7 @@ i a:active {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 4vh;
     display: block;
 }
@@ -1147,7 +1149,7 @@ a.icon {
     color: white;
     min-height: 4vh;
     font-size: 500px;
-    font-family: sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 #sublinks {

@@ -1377,6 +1377,7 @@
 
     #myLinks a {
         font-size: 18px;
+        font-family: 'Source Sans Pro', sans-serif;
     }
 
     .topnav span {
@@ -1857,12 +1858,13 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 7vh;
-        font-family: sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
         display: block;
     }
 
     #myLinks a {
         font-size: 18px;
+        font-family: 'Source Sans Pro', sans-serif;;
     }
 
     .topnav span {
@@ -1891,12 +1893,13 @@
         color: white;
         min-height: 8vh;
         font-size: 500px;
-        font-family: sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
     }
 
     #sublinks {
           display:none;
           background-color: #5a5a5a;
+          font-family: 'Source Sans Pro', sans-serif;
     }
 
     #about-links {
