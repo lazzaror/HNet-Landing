@@ -2114,16 +2114,21 @@
     }
 
     .fixed-line-header {
-        position: absolute;
         top: 15%;
+        display: none;
     }
     
     .services-logo-container {
-        padding-top: 10%;
-        padding-bottom: 15%;
-        float: left;
-        position: absolute;
-        padding-left: 8%;
+        padding-top: 7%;
+        padding-bottom: 5%;
+        margin-left: 20%;
+        text-align: center;
+    }
+
+    div.services-logo-container img {
+        max-width: 100%; 
+        height: auto;
+        width: auto;
     }
 
     #logo-mobile-caption-text-default {
@@ -2132,15 +2137,10 @@
     
     #logo-caption-container {
         background-color: #faf8e8bd;
-        width: 45%;
-        height: 37%;
-        /*right: 10%;*/
-        position: absolute;
-        margin: 0 0 0 48%;
-        padding: 3% 3% 25% 3%;
         border-width: 5px;
         font-family: sans-serif;
         font-size: 22px;
+        text-align: center;
     }
     
     #logo-caption {
@@ -2155,9 +2155,7 @@
 
     .pg3-underline {
         background-color: #00d5fb;
-        padding: 0 30% 0 0;
-        margin: 0;
-        width: 25%;
+        width: 80%;
         border: none;
         height: 3px;
     }
@@ -2181,23 +2179,20 @@
     }
 
     .pg3-quote {
-        padding: 5% 0 0 0;
+        padding: 2% 0;
     }
 
     .fixed-line {
-        position: absolute;
         top: 64%;
         padding-right: 0;
     }
 
     .fixed-line2 {
-        position: absolute;
         top: 94%;
         padding-right: 0;
     }
 
-    .fixed-quote {
-        position: absolute;
+    .fixed-quote { 
         top: 69%;
     }
     
@@ -2220,7 +2215,6 @@
         font-size: 26px;
         font-family: 'Source Sans Pro', sans-serif;
     }
-
         /* Page 4 */
         .bg4 {
             background-color: rgba(238, 238, 238, 0.075) !important;
