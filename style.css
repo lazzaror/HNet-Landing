@@ -1806,7 +1806,7 @@
     .footer {
         color: #ddd;
         background-color: #09503a;
-        padding: 3% 1%;
+        padding: 3% 4%;
     }
     
     div.footer {
@@ -1824,7 +1824,7 @@
     .foot-logo-left {
         float: right;
         height: 40%;
-        padding: 10% 0 0 1%;
+        padding: 10% 0 0 4%;
     }
     
     }
@@ -1857,6 +1857,7 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 7vh;
+        font-family: sans-serif;
         display: block;
     }
 

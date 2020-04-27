@@ -1095,6 +1095,14 @@ body > div.mobile > div.topnav > a {
 .topnav #myLinks {
     display: none;
 }
+
+a:hover {
+    color: black;
+}
+
+i a:active {
+    color: black;
+}
   
 .topnav a {
     color: white;
@@ -1106,6 +1114,11 @@ body > div.mobile > div.topnav > a {
 
 #myLinks a {
     font-size: 18px;
+    color: white;
+}
+
+#myLinks a:hover {
+    color: black;
 }
 
 .topnav span {
@@ -1134,7 +1147,7 @@ a.icon {
     color: white;
     min-height: 4vh;
     font-size: 500px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: sans-serif;
 }
 
 #sublinks {
@@ -1346,6 +1359,7 @@ a:hover {
     color: black;
     text-decoration: none;
 }    
+
 .footer-container {
     height: 200px;
     margin: 0;
