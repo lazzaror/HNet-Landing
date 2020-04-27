@@ -1733,7 +1733,7 @@
         font-family: 'Source Sans Pro', sans-serif;
     }
 
-    #logo-caption-text-default {
+    #logo-mobile-caption-text-default {
         margin-top: 0;
         top: 100px;
         width: 100%;
@@ -1741,6 +1741,10 @@
         display: inline-block;
         font-size: 26px;
         font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    #logo-caption-text-default {
+        display: none;
     }
 
         /* Page 4 */
@@ -2120,19 +2124,14 @@
     
     .services-logo-container {
         padding-top: 7%;
+        width: 100%;
+        margin: 0 20%;
         padding-bottom: 5%;
-        margin-left: 20%;
         text-align: center;
     }
 
     div.services-logo-container img {
-        max-width: 100%; 
-        height: auto;
-        width: auto;
-    }
-
-    #logo-mobile-caption-text-default {
-        display: none;
+        text-align: center;
     }
     
     #logo-caption-container {
@@ -2206,7 +2205,7 @@
         font-family: 'Source Sans Pro', sans-serif;
     }
 
-    #logo-caption-text-default {
+    #logo-mobile-caption-text-default {
         margin-top: 0;
         top: 100px;
         width: 100%;
@@ -2214,6 +2213,10 @@
         display: inline-block;
         font-size: 26px;
         font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    #logo-caption-text-default {
+        display: none;
     }
         /* Page 4 */
         .bg4 {
