@@ -1397,7 +1397,7 @@
     .bg2 {
         background-color: #d3d3d3;
         background-size: cover;
-        min-height: 110vh;
+        min-height: 100vh;
         position: relative;
         overflow: hidden;
         width: 100vw;
@@ -1499,7 +1499,7 @@
     .bg3 {
         background-color: #faf8e8bd;
         background-size: cover;
-        min-height: 125vh;
+        min-height: 102vh;
         position: relative;
         overflow: hidden;
     }
@@ -1770,7 +1770,7 @@
         background-image: url('img/front_page_image_2.jpg');
         background-blend-mode: color;
         background-size: cover;
-        min-height: 180vh;
+        min-height: 130vh;
         height: 100%;
         position: relative;
     }
@@ -1801,7 +1801,7 @@
     
     #h-net-logo {
         padding-top: 8%;
-        width: 50%;
+        width: 30%;
         height: 45%;
     }
 
