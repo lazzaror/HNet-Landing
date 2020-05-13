@@ -54,7 +54,7 @@
         top: 30%;
         left: 40%;
         max-width: 50%;
-        font-size: 75px;
+        font-size: 80px;
     }
     
     #logo-container {
@@ -86,7 +86,7 @@
     .menu-links {
         padding: 5% 0 0 29%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 28px;
+        font-size: 32px;
         font-weight: bold;
         display: block;
         text-align: left;
