@@ -22,7 +22,7 @@
     }
     
     .logo {
-        display: absolute;
+        display: none;
         width: 10%;
         padding: 1em 0 0% 1em;
         margin: 0% 0% 0% 0%;
@@ -52,9 +52,9 @@
         font-family: sans-serif;
         position: absolute;
         top: 30%;
-        left: 30%;
-        max-width: 60%;
-        font-size: 100px;
+        left: 40%;
+        max-width: 50%;
+        font-size: 75px;
     }
     
     #logo-container {
@@ -62,30 +62,29 @@
         top: 0;
         height: 100%;
         left: 0;
-        display: none;
     }
     
     #h-net-logo {
         padding-left: 10%; /*Might add media rule here*/
-        padding-top: 4%;
-        max-width: 95%;
+        padding-top: 18%;
+        max-width: 60%;
         width: auto;
-        height: 75%;
+        height: 45%;
         position: absolute;
-        display: none;
     }
 
     .big-underline {
         background-color: #00d5fb;
         padding: 0;
+        margin-right: 0.5%;
         text-align: right;
-        width: 87%;
+        width: 71%;
         border: none;
         height: 5px;
     }
     
     .menu-links {
-        padding: 5% 0 0 21%;
+        padding: 5% 0 0 29%;
         font-family: 'Source Sans Pro', sans-serif;
         font-size: 28px;
         font-weight: bold;
@@ -325,27 +324,6 @@
         display: inline-block;
         font-family: 'Lato', sans-serif;
     }
-
-    .pg3-quote {
-        padding: 2% 0 0 0;
-    }
-
-    .fixed-line {
-        position: absolute;
-        top: 64%;
-        padding-right: 0;
-    }
-
-    .fixed-line2 {
-        position: absolute;
-        top: 87%;
-        padding-right: 0;
-    }
-
-    .fixed-quote {
-        position: absolute;
-        top: 69%;
-    }
     
     #logo-caption-text {
         margin-top: 25px;
@@ -476,7 +454,7 @@
     }
     
     .logo {
-        display: absolute;
+        display: none;
         width: 10%;
         padding: 1em 0 0% 1em;
         margin: 0% 0% 0% 0%;
@@ -506,7 +484,7 @@
         font-family: sans-serif;
         position: absolute;
         top: 30%;
-        left: 30%;
+        left: 40%;
         max-width: 50%;
         font-size: 75px;
     }
@@ -516,30 +494,29 @@
         top: 0;
         height: 100%;
         left: 0;
-        display: none;
     }
     
     #h-net-logo {
         padding-left: 10%; /*Might add media rule here*/
-        padding-top: 4%;
-        max-width: 95%;
+        padding-top: 18%;
+        max-width: 60%;
         width: auto;
-        height: 75%;
+        height: 45%;
         position: absolute;
-        display: none;
     }
 
     .big-underline {
         background-color: #00d5fb;
         padding: 0;
+        margin-right: 0.5%;
         text-align: right;
-        width: 87%;
+        width: 71%;
         border: none;
         height: 5px;
     }
     
     .menu-links {
-        padding: 5% 0 0 21%;
+        padding: 5% 0 0 29%;
         font-family: 'Source Sans Pro', sans-serif;
         font-size: 28px;
         font-weight: bold;
@@ -748,15 +725,6 @@
         clear: both;
         display: block;
     }
-
-    .pg3-underline {
-        background-color: #00d5fb;
-        padding: 0 30% 0 0;
-        margin: 0;
-        width: 25%;
-        border: none;
-        height: 3px;
-    }
     
     #logo-caption-header {
         font-weight: bold;
@@ -774,27 +742,6 @@
         width: 100%;
         display: inline-block;
         font-family: 'Lato', sans-serif;
-    }
-
-    .pg3-quote {
-        padding: 5% 0 0 0;
-    }
-
-    .fixed-line {
-        position: absolute;
-        top: 64%;
-        padding-right: 0;
-    }
-
-    .fixed-line2 {
-        position: absolute;
-        top: 94%;
-        padding-right: 0;
-    }
-
-    .fixed-quote {
-        position: absolute;
-        top: 69%;
     }
     
     #logo-caption-text {
@@ -921,7 +868,7 @@
     }
     
     .logo {
-        display: absolute;
+        display: none;
         width: 10%;
         padding: 1em 0 0% 1em;
         margin: 0% 0% 0% 0%;
@@ -951,9 +898,9 @@
         font-family: sans-serif;
         position: absolute;
         top: 30%;
-        left: 30%;
-        max-width: 60%;
-        font-size: 65px;
+        left: 40%;
+        max-width: 50%;
+        font-size: 75px;
     }
     
     #logo-container {
@@ -961,30 +908,29 @@
         top: 0;
         height: 100%;
         left: 0;
-        display: none;
     }
     
     #h-net-logo {
-        padding-left: 2%; /*Might add media rule here*/
-        padding-top: 4%;
-        max-width: 95%;
+        padding-left: 10%; /*Might add media rule here*/
+        padding-top: 18%;
+        max-width: 60%;
         width: auto;
-        height: 75%;
+        height: 45%;
         position: absolute;
-        display: none;
     }
 
     .big-underline {
         background-color: #00d5fb;
         padding: 0;
+        margin-right: 0.5%;
         text-align: right;
-        width: 87%;
+        width: 71%;
         border: none;
         height: 5px;
     }
     
     .menu-links {
-        padding: 5% 0 0 21%;
+        padding: 5% 0 0 29%;
         font-family: 'Source Sans Pro', sans-serif;
         font-size: 28px;
         font-weight: bold;
@@ -1197,15 +1143,6 @@
         clear: both;
         display: block;
     }
-
-    .pg3-underline {
-        background-color: #00d5fb;
-        padding: 0 30% 0 0;
-        margin: 0;
-        width: 25%;
-        border: none;
-        height: 3px;
-    }
     
     #logo-caption-header {
         font-weight: bold;
@@ -1223,27 +1160,6 @@
         width: 100%;
         display: inline-block;
         font-family: 'Lato', sans-serif;
-    }
-
-    .pg3-quote {
-        padding: 0 0 0 0;
-    }
-
-    .fixed-line {
-        position: absolute;
-        top: 64%;
-        padding-right: 0;
-    }
-
-    .fixed-line2 {
-        position: absolute;
-        top: 94%;
-        padding-right: 0;
-    }
-
-    .fixed-quote {
-        position: absolute;
-        top: 69%;
     }
     
     #logo-caption-text {
@@ -1680,13 +1596,6 @@
         clear: both;
         display: block;
     }
-
-    .pg3-underline {
-        background-color: #00d5fb;
-        width: 80%;
-        border: none;
-        height: 3px;
-    }
     
     #logo-caption-header {
         font-weight: bold;
@@ -1704,24 +1613,6 @@
         width: 100%;
         display: inline-block;
         font-family: 'Lato', sans-serif;
-    }
-
-    .pg3-quote {
-        padding: 5% 0 0 0;
-    }
-
-    .fixed-line {
-        top: 64%;
-        padding-right: 0;
-    }
-
-    .fixed-line2 {
-        top: 94%;
-        padding-right: 0;
-    }
-
-    .fixed-quote { 
-        top: 69%;
     }
     
     #logo-caption-text {
@@ -2147,13 +2038,6 @@
         clear: both;
         display: block;
     }
-
-    .pg3-underline {
-        background-color: #00d5fb;
-        width: 80%;
-        border: none;
-        height: 3px;
-    }
     
     #logo-caption-header {
         font-weight: bold;
@@ -2171,23 +2055,6 @@
         width: 100%;
         display: inline-block;
         font-family: 'Lato', sans-serif;
-    }
-
-    .pg3-quote {
-        padding: 2% 0 4% 0;
-    }
-
-    .fixed-line {
-        top: 64%;
-        padding-right: 0;
-    }
-
-    .fixed-line2 {
-        display: none;
-    }
-
-    .fixed-quote { 
-        top: 69%;
     }
     
     #logo-caption-text {
