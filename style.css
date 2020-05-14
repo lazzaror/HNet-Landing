@@ -242,7 +242,7 @@
     
     .subheading {
         font-weight: bolder;
-        text-align: left;
+        text-align: center;
         font-family: 'Lato', sans-serif;
         color: #070e49;
         font-size: 25px;
@@ -360,13 +360,13 @@
             font-size: 20px;
             font-family: 'Lato', sans-serif;
             margin-left: 4%;
+            float: left;
         }
     
         .pg4-rightcol {
             font-size: 20px;
             font-family: 'Lato', sans-serif;
             position: absolute;
-            top: 17%;
             left: 40%;
         }
     
@@ -647,7 +647,7 @@
     
     .subheading {
         font-weight: bolder;
-        text-align: left;
+        text-align: center;
         font-family: 'Lato', sans-serif;
         color: #070e49;
         font-size: 25px;
@@ -762,13 +762,13 @@
         font-size: 20px;
         font-family: 'Lato', sans-serif;
         margin-left: 4%;
+        float: left;
     }
 
     .pg4-rightcol {
         font-size: 20px;
         font-family: 'Lato', sans-serif;
         position: absolute;
-        top: 17%;
         left: 40%;
     }
 
@@ -1036,7 +1036,7 @@
 
 
     .statements-body {
-        text-align: left;
+        text-align: center;
         font-size: 18px;
     }
 
@@ -1051,7 +1051,7 @@
     
     .subheading {
         font-weight: bolder;
-        text-align: left;
+        text-align: center;
         font-family: 'Lato', sans-serif;
         color: #070e49;
         font-size: 25px;
@@ -1164,13 +1164,13 @@
             font-size: 20px;
             font-family: 'Lato', sans-serif;
             margin-left: 4%;
+            float: left;
         }
     
         .pg4-rightcol {
             font-size: 20px;
             font-family: 'Lato', sans-serif;
             position: absolute;
-            top: 17%;
             left: 40%;
         }
     
