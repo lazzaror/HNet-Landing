@@ -35,13 +35,13 @@ html, body {
 }
 
 .menu-links {
-    padding: 5% 0 0 52.5%;
+    padding: 5% 0 0 6.5%;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 25px;
+    font-size: 28px;
     font-weight: bold;
     display: block;
     text-align: left;
-    word-spacing: 1.2em;
+    word-spacing: 2em;
 }
 
 a {
@@ -391,13 +391,13 @@ div.footer {
     }
     
     .menu-links {
-        padding: 5% 0 0 44%;
+        padding: 5% 0 0 6.5%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 25px;
+        font-size: 28px; 
         font-weight: bold;
         display: block;
         text-align: left;
-        word-spacing: 1.2em;
+        word-spacing: 2em;
     }
     
     a {
@@ -748,18 +748,18 @@ div.footer {
     }
     
     .menu-links {
-        padding: 5% 0 0 44%;
+        padding: 5% 0 0 6.5%;
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 20px;
+        font-size: 25px;
         font-weight: bold;
         display: block;
         text-align: left;
-        word-spacing: 1.2em;
+        word-spacing: 2em;
     }
     
     a {
         text-decoration: none;
-        color: #00d5fb;
+        color: black;
     }
     
     a:hover {
